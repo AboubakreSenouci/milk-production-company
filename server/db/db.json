@@ -1,0 +1,172 @@
+{
+  "cows": [
+    {
+      "id": "b0c31602-6495-45e5-a121-01dd67030981",
+      "entrydate": "2023-07-30",
+      "strain": "montbliard"
+    },
+    {
+      "id": "09c9b3fd-a3c4-4a9b-9a83-c57b47e9600d",
+      "entrydate": "2023-07-30",
+      "strain": "holstein"
+    },
+    {
+      "id": "50a5a20a-08a4-4355-a8cb-c1b9f84665ee",
+      "entrydate": "2023-07-31",
+      "strain": "holstein"
+    },
+    {
+      "id": "e58a6fb8-1e21-4de9-b8c7-ebb2897d2775",
+      "entrydate": "2023-07-31",
+      "strain": "holstein"
+    },
+    {
+      "id": "55d3c004-d4e1-4318-b973-7ebf2b65a63f",
+      "entrydate": "2023-07-30",
+      "strain": "montbliard"
+    },
+    {
+      "id": "b694eb85-f34f-4c9d-81cc-537984fd1329",
+      "entrydate": "2023-07-31",
+      "strain": "holstein"
+    },
+    {
+      "id": "156e4afd-7c3d-41eb-9e12-0a36ff03321d",
+      "entrydate": "2023-07-31",
+      "strain": "montbliard"
+    },
+    {
+      "id": "0fbd8417-4d2a-4dfc-a2d2-e9a11920041a",
+      "entrydate": "2023-07-30",
+      "strain": "montbliard"
+    },
+    {
+      "id": "6cdcd35c-7002-415b-b4cd-54bb3968378b",
+      "entrydate": "2023-07-31",
+      "strain": "montbliard"
+    },
+    {
+      "id": "a5938bcc-ce52-4492-8aa2-98dbcaa94968",
+      "entrydate": "2000-02-22",
+      "strain": "holstein"
+    },
+    {
+      "id": "370ee581-eedd-4a97-8d6b-ddf949f5f4d1",
+      "entrydate": "2023-07-30",
+      "strain": "holstein"
+    },
+    {
+      "id": "9ee4331a-1b04-4f47-bcd6-04afa7f8b57e",
+      "entrydate": "2023-07-30",
+      "strain": "montbliard"
+    },
+    {
+      "id": "47efc2c3-1828-4d2f-8b4c-9914ae08f612",
+      "entrydate": "2023-07-31",
+      "strain": "holstein"
+    },
+    {
+      "id": "eeb5b406-d9c8-4faf-b9c1-4fff4cd58a1a",
+      "entrydate": "2023-07-31",
+      "strain": "montbliard"
+    },
+    {
+      "id": "9c79647b-7e3a-4424-9ef2-29b09a518171",
+      "entrydate": "2023-07-31",
+      "strain": "montbliard"
+    }
+  ],
+  "examinations": [
+    {
+      "id": "8acc8aea-7232-48a1-9e3c-f59a4b27d7f1",
+      "examinationdate": "2023-08-03",
+      "disease": "Bluetongue"
+    },
+    {
+      "id": "6b94c9cb-6b13-475b-a4c9-535b96ee44ec",
+      "examinationdate": "2023-08-04",
+      "disease": "Botulism"
+    },
+    {
+      "id": "08cb0247-836f-4777-80a2-dabcbad190ce",
+      "examinationdate": "2023-08-05",
+      "disease": "Brucellosis"
+    },
+    {
+      "id": "73e6cd9b-b0c6-4ae6-b003-748af5784393",
+      "examinationdate": "2023-08-08",
+      "disease": "Brucellosis"
+    }
+  ],
+  "milk": [
+    {
+      "id": "e552ea79-2855-41be-b79a-071a182190e4",
+      "milkquantity": "200",
+      "date": "2023-07-29"
+    },
+    {
+      "id": "237f6443-aef2-4280-bd4f-a23eccbcb4ff",
+      "milkquantity": "210",
+      "date": "2023-07-30"
+    },
+    {
+      "id": "aacdc933-6a05-4368-a752-606919f361c6",
+      "milkquantity": "225",
+      "date": "2023-07-31"
+    },
+    {
+      "id": "f53c02b9-8e19-4e45-ba46-7ece32a3581b",
+      "milkquantity": "260",
+      "date": "2023-08-01"
+    },
+    {
+      "id": "3cb15630-0155-4c7b-8542-918c26413379",
+      "milkquantity": "230",
+      "date": "2023-08-02"
+    }
+  ],
+  "births": [
+    {
+      "id": "5b014e00-e9d0-45d5-b428-a5be2bf1b563",
+      "datebirth": "2023-07-31",
+      "gender": "male",
+      "strain": "holstein"
+    },
+    {
+      "id": "2ef6e767-4cf9-42a4-8bfc-266bd15dda3d",
+      "datebirth": "2023-07-31",
+      "gender": "male",
+      "strain": "montbliard"
+    },
+    {
+      "id": "24789d20-04d6-462e-b312-84310ad96d14",
+      "datebirth": "2023-07-30",
+      "gender": "male",
+      "strain": "holstein"
+    },
+    {
+      "id": "2506d0ca-dcc2-48cd-9630-031a44d3855f",
+      "datebirth": "2023-07-31",
+      "gender": "male",
+      "strain": "holstein"
+    },
+    {
+      "id": "23226624-f3fe-471c-86e0-ebe732b0a030",
+      "datebirth": "2023-08-01",
+      "gender": "female",
+      "strain": "holstein"
+    },
+    {
+      "id": "6a6b4566-b2ec-449a-b91b-a9745eeef56c",
+      "datebirth": "2023-07-30",
+      "gender": "male",
+      "strain": "montbliard"
+    },
+    {
+      "id": "def770f6-99cc-4250-b75e-69e45141ab44",
+      "datebirth": "2023-07-18",
+      "gender": "female",
+      "strain": "montbliard"
+    }
+  ]
+}
